@@ -13,5 +13,9 @@
   "devDependencies": {
     "lerna": "^6.5.1",
     "tsup": "^6.6.3"
-  }
+  },
+  "repository": {
+		"url": "https://github.com/jmtype/pnpm-lib",
+		"type": "git"
+	}
 }
