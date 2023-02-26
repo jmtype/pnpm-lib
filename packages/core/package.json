@@ -1,6 +1,7 @@
 {
   "name": "@jmtype/core",
   "version": "0.0.1",
+  "private": "true",
   "type": "module",
   "description": "Another dummy library to test pnpm monorepors with Lerna",
   "main": "index.js",
