@@ -10,13 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^6.5.1",
     "tsup": "^6.6.3"
   },
   "repository": {
-		"url": "https://github.com/jmtype/pnpm-lib",
-		"type": "git"
-	},
+    "url": "https://github.com/jmtype/pnpm-lib",
+    "type": "git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
