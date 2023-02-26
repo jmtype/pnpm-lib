@@ -1,0 +1,14 @@
+{
+  "name": "@jmtype/core",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Another dummy library to test pnpm monorepors with Lerna",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jmtype/math-utils": "^0.0.1"
+  }
+}
