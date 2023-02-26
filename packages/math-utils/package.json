@@ -18,5 +18,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+		"url": "https://github.com/jmtype/pnpm-lib",
+		"directory": "packages/math-utils",
+		"type": "git"
+	}
 }
