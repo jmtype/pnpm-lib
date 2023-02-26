@@ -1,8 +1,6 @@
 {
   "name": "@jmtype/pnpm-lib",
-  "private": true,
   "description": "Simple monorepo built on top of pnpm and Lerna",
-  "main": "index.js",
   "scripts": {
     "prepare": "lerna run build",
     "publish": "lerna publish --no-private"
