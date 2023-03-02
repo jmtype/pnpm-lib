@@ -1,6 +1,6 @@
 {
   "name": "@jmtype/math-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "module",
   "description": "Basic library to test pnpm monorepos with Lerna",
   "module": "./dist/index.js",
@@ -20,8 +20,8 @@
   "author": "",
   "license": "ISC",
   "repository": {
-		"url": "https://github.com/jmtype/pnpm-lib",
-		"directory": "packages/math-utils",
-		"type": "git"
-	}
+    "url": "https://github.com/jmtype/pnpm-lib",
+    "directory": "packages/math-utils",
+    "type": "git"
+  }
 }
