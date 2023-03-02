@@ -1,6 +1,6 @@
 {
   "name": "@jmtype/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": "true",
   "type": "module",
   "description": "Another dummy library to test pnpm monorepors with Lerna",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jmtype/math-utils": "^0.1.0"
+    "@jmtype/math-utils": "^0.2.0"
   }
 }

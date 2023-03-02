@@ -12,7 +12,7 @@ importers:
 
   packages/core:
     specifiers:
-      '@jmtype/math-utils': ^0.1.0
+      '@jmtype/math-utils': ^0.2.0
     dependencies:
       '@jmtype/math-utils': link:../math-utils
 

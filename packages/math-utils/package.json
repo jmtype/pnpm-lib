@@ -1,6 +1,6 @@
 {
   "name": "@jmtype/math-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "description": "Basic library to test pnpm monorepos with Lerna",
   "module": "./dist/index.js",
