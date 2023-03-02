@@ -2,10 +2,7 @@
   "name": "@jmtype/pnpm-lib",
   "version": "0.0.1",
   "description": "Simple monorepo built on top of pnpm and Lerna",
-  "scripts": {
-    "prepare": "lerna run build",
-    "publish": "lerna publish --no-private"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
